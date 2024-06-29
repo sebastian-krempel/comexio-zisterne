@@ -7,7 +7,7 @@ Diese InApp kann auf dem Comexio IO-Server installiert werden und bietet einen F
 
 ## Installation
 
-1. Die aktuelle Version der Datei [Zisterne.capp](https://github.com/sebastian-krempel/Comexio-Zisternensteuerung/raw/main/Zisterne.capp) herunterladen.
+1. Die aktuelle Version der Datei [Zisterne.capp](https://github.com/sebastian-krempel/comexio-zisterne/raw/main/Zisterne.capp) herunterladen.
 2. Auf dem IO-Server im Menü unter dem Punkt `Entwickler` den Punkt `InApp` anklicken.
 3. Die dargestellte Box mit dem Plus anklicken, die eben heruntergeladene Datei ausgewählen und `Importieren` klicken.
 
